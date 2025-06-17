@@ -4,6 +4,8 @@
 
 This is a template for [a simple Quarto website](https://nmfs-opensci.github.io/NOAA-quarto-simple/) (`type: website`). It looks like a html book (`type: book`) but unlike the book type it only has html format and you will not have the download options. `type: website` is a common format for documentation. 
 
+Im adding a line for rendering!
+
 The repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the `gh-pages` branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch. 
 
 **Warning:** Check that the settings will allow the GitHub Action to run. See the instructions below under "GitHub Set-up". Scroll down to the troubleshooting section if the website is not built by the GitHub Action.
